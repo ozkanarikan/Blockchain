@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    padding: 20px;
+    background: #F1F1F1;
+}
+.header h1 {
+    font-size: 50px;
+    color: rgb(36, 34, 34);
+}
+.topnav {
+    overflow: hidden;
+    background-color: #4582A4;
+}
+.topnav a {
+    color:white;
+    float:left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+.topnav a:hover {
+    background-color: #284C60;
+    color:rgb(250, 191, 118)
+}
+.topnav a:active {
+    background-color: #040E13;
+    color:rgb(250, 191, 118)
+}
+.leftPanel {
+    width:75%;
+    float: left;
+    background-color: #E5E5E5;
+}
+.rightPanel {
+    width: 25%;
+    float:left;
+    background-color: #3F3F3F;
+}
+.cardElement {
+    padding-bottom: 30px;
+    background-color: #E8E8E8 !important;
+}
+.cardElement img {
+    width:100%
+}
